@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "ferrumfield.xyz",
+    baseUrl: "ferrum-field.vercel.app",
     ignorePatterns: ["Inbox", "Templates", ".obsidian", ".trash", ".vscode"],
     defaultDateType: "created",
     theme: {
