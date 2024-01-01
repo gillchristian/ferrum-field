@@ -6,4 +6,4 @@ publish: true
 
 > Any calls to `.await` within the `async fn` yield control back to the thread. The thread may do other work while the operation processes in the background.
 
-Reference: [Hello Tokio](https://tokio.rs/tokio/tutorial/hello-tokio
+Reference: [Hello Tokio](https://tokio.rs/tokio/tutorial/hello-tokio)
