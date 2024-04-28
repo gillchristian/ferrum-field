@@ -1,0 +1,12 @@
+{
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "source",
+  "showLineNumber": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "assets",
+  "vimMode": true
+}
