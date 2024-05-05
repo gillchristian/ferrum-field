@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Listing enum variants.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Listing enum variants.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Listing enum variants.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Listing enum variants.md"
+                "file": "index.md"
               }
             }
           }
@@ -161,12 +161,14 @@
   },
   "active": "52678d7c9015a2d1",
   "lastOpenFiles": [
-    "Notes/Mini-Redis.md",
+    "assets/ferrum-field.png",
+    "index.md",
+    "assets/ferrum-field-2.png",
+    "assets/ferrum-field-2.webp",
     "Notes/Listing enum variants.md",
+    "Notes/Mini-Redis.md",
     "Notes/await yields control back to the thread.md",
     "Inbox/This is a test.md",
-    "index.md",
-    "assets/ferrum-field.png",
     "Notes/Pin.md",
     "Notes/Pin to borrow between awaits.md",
     "Notes/Tokio spawn vs. select!.md",
