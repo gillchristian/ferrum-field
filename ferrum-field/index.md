@@ -16,9 +16,11 @@ Our aims for this digital garden are straightforward:
 2. Deepen our understanding of Redis's architecture and key concepts by reconstructing them in Rust.
 3. Share our progress, insights, and challenges to help others exploring similar paths.
 
-**Updates**
+**Updates & Status**
 
 Find our latest updates and progress in [this ~~Twitter~~ X thread](https://x.com/gillchristian/status/1784527143952609395).
+
+Check [[Status]] for an overview of the milestones and next steps.
 
 **Exploring the Garden**
 
